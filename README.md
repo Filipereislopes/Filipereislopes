@@ -8,3 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipereislopes&layout=compact)](https://github.com/Filipereislopes/github-readme-stats)
 
 </h1>
+
+![RMiike's github stats](https://github-readme-stats.vercel.app/api?username=Filipereislopes&show_icons=true&theme=dracula)
