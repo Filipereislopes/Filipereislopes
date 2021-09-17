@@ -1,3 +1,13 @@
+My name is Filipe dos Reis and I am a QA Test.
+
+🌱 I am currently learning: Java and Automation Test.
+
+🚀 I am always studying.
+
+⚡ Curiosity: I went to law school to become a lawyer.
+
+📫 How to contact me: ...
+
 <h1 align="center" >
   
 
