@@ -1,3 +1,5 @@
+Hey, what's up!! 👋
+
 My name is Filipe dos Reis and I am a QA Test.
 
 🌱 I am currently learning: Java and Automation Test.
