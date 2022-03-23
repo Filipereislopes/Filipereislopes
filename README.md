@@ -1,6 +1,6 @@
 Hey, what's up!! 👋
 
-My name is Filipe dos Reis and I am a QA Test.
+My name is Filipe dos Reis and I am a Back-End Developer Student | .NET C# | JAVA | QA
 
 🌱 I am currently learning: Java and Automation Test.
 
